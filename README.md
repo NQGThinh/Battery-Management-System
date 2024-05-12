@@ -1,0 +1,1 @@
+In this project, a digital alarm clock with alarm abilities was built using S32k142EVB discovery board, Some functions of project is setting up start time and wake up time by sending string from PC to MCU by LPUART, timing operations are implemented by SYSTICK, 7 segment LED showing current time, 2 user button to adjust hour and minute, alarm sound effect using piezo buzzer.
